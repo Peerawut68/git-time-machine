@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS generated files
+.DS_Store
+
+# Temporary log & cache files (Lab 3 exercise)
+*.log
+temp_data/
+
+# -------------------------------------------------------------
+# Teacher Materials & Solutions (Do not push to students repo)
+# ป้องกันคู่มือครูและเฉลยไม่ให้ขึ้น GitHub ของนักเรียน
+# -------------------------------------------------------------
+TEACHER_GUIDE.md
+teacher_assets/
