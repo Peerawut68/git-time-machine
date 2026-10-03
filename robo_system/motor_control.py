@@ -47,6 +47,3 @@ if __name__ == "__main__":
     assert get_steering_angle("left") == -45
     assert get_steering_angle("straight") == 0
     print("✅ Motor Control: ผ่านการทดสอบทั้งหมด!")
-
-def activate_turbo():
-    print("Turbo charge...incomplete")
